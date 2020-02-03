@@ -6,5 +6,7 @@ public class HelloGit {
 
         System.out.println("123");
         System.out.println("hello git");
+
+        //确保连接
     }
 }
